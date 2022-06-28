@@ -4,7 +4,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 # Installation
 ```
-# code block
 Öncelikle projeyi klonlayalım.
 git clone https://github.com/ayhanozgurbaris/kodluyoruzilkrepo
 ```
