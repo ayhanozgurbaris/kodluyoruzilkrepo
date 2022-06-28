@@ -4,6 +4,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 # Installation
 
-[Kodluyoruz Ilk Repo](https://github.com/ayhanozgurbaris/kodluyoruzilkrepo)
+(https://github.com/ayhanozgurbaris/kodluyoruzilkrepo)
 
 # Usage
